@@ -1,5 +1,5 @@
 ### ionic2 project demo
 
-> this is a demo for ionic2 lastest version
+> this is a ddmo for ionic2 lastest version
 
-##### this is a branch test
+##### this is a branch edit test
